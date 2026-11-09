@@ -1,0 +1,4 @@
+venv/
+.env
+tugas.db
+__pycache__/
